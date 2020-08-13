@@ -5,7 +5,7 @@ Web application that allows the user to create an account and search for books v
 
 ## Deployed Link
 
-[Heroku](https://calm-shelf-58513.herokuapp.com/)
+[Heroku](https://virtual-library-2.herokuapp.com/homepage)
 
 ## Scripts
 
